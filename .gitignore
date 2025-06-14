@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.h5
+*.wav
+*.mp4
+*.avi
+
+# Virtual environments
+venv/
+tf-env/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
